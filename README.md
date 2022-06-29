@@ -24,6 +24,7 @@ Dexode's key driving factors and features include:
 * Compute profit and loss, and produce capital gains and income tax reports.
 * Apply demographic tax reporting rules, e.g. here in the UK we have "Bed and Breakfast" tax rules and so forth.
 * Learn about DeFi and what appears on the blockchain as you curate your transactions.
+* Data analytics. The world is our oyster here.
 
 You can check out a live video demo [here]. If you would like to help me continue working on Dexode you can either
 
