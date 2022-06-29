@@ -26,7 +26,7 @@ Dexode's key features and drivers include:
 * Learn about DeFi and what appears on the blockchain as you curate your transactions.
 * Data analytics, trend analysis.
 
-You can check out a live video demo [here], and if you would like to help me continue working on Dexode you can:
+You can check out a live video demo of the web app client for the Dexode SDK [here], and if you would like to help me continue working on Dexode you can:
 
 * Contribute to the Dexode gitcoin.co page here.
 * Send donations directly to 0x6556b412c9E8b473E4F26b9F7cC0215e02ABcE4A via BNB Chain, Ethereum, Oasis Emerald, Polygon, Avalanche, Fantom, Moonriver, Heco, Cronos, or Fuse.
