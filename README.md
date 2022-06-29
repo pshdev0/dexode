@@ -1,7 +1,7 @@
 # Dexode
 EVM Compatible Blockchain Transaction Decoder
 
-Welcome to Dexode's update repo, where I'll be reporting on project progress and uploading the main repo files.
+Welcome to Dexode's update repo, where I'll be reporting on project progress and uploading the main Dexode SDK files.
 
 # Background
 
