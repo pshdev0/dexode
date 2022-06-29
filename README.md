@@ -33,9 +33,9 @@ You can check out a live video demo [here]. If you would like to help me continu
 
 Thank you.
 
-# 🚧 Current Work In Progress 🚧
+# Current Work In Progress
 
-* Debug cumulative balances - make sure user can edit "corrections" cell & debug.
+* 🚧 Debug cumulative balances - make sure user can edit "corrections" cell & debug.
 * Start analysing how to compute profit and loss from the list of transactions.
 * Automate & debug profit & loss; design UI to display this (probably via a different "view" of the existing table)
 * Implement demographic tax calculation rules, e.g. Bed & Breakfast rules, etc, separate for capital gains, income tax.
