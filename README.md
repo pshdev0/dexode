@@ -5,7 +5,7 @@ Welcome to Dexode's update repo, where I'll be reporting on project progress and
 
 # Background
 
-As a user of many EVM compatible blockchains and DeFi web apps I understand how disorganised and confusing wallet transactions can seem. Users should be able to track and understand transactions, and make sure balances are up to date and accurate. Knowledge of coin and token prices at the transaction timestamp ("pricestamps") is also required. Ultimatly we may need to calculate profit, loss, and report capital gains and income taxes.
+As a user of many EVM compatible blockchains and DeFi web apps I understand how disorganised and confusing wallet transactions can seem. Ideally users should be able to track and understand transactions, and make sure balances are up to date and accurate. Knowledge of coin and token prices at the transaction timestamp ("pricestamps") is also required. Ultimately we may need to calculate profit, loss, and report capital gains and income taxes.
 
 Dexode drives to build such a tool to achieve this.
 
