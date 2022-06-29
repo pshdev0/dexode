@@ -53,9 +53,7 @@ A video demonstrating current progress of the web app client for the Dexode SDK 
 
 # Support Dexode
 
-You can either
-
-* Contribute to the Dexode gitcoin.co page here.
-* Send donations directly to 0x6556b412c9E8b473E4F26b9F7cC0215e02ABcE4A via BNB Chain, Ethereum, Oasis Emerald, Polygon, Avalanche, Fantom, Moonriver, Heco, Cronos, or Fuse.
+* Please contribute to the Dexode gitcoin.co page here.
+* Alternatively please send donations directly to 0x6556b412c9E8b473E4F26b9F7cC0215e02ABcE4A via BNB Chain, Ethereum, Oasis Emerald, Polygon, Avalanche, Fantom, Moonriver, Heco, Cronos, or Fuse.
 
 Thank you.
