@@ -26,10 +26,10 @@ Dexode's key driving factors and features include:
 * Learn about DeFi and what appears on the blockchain as you curate your transactions.
 * Data analytics. The world is our oyster here.
 
-You can check out a live video demo [here]. If you would like to help me continue working on Dexode you can either
+You can check out a live video demo [here]. If you would like to help me continue working on Dexode you can:
 
 * Contribute to the Dexode gitcoin.co page here.
-* Send donations to 0x6556b412c9E8b473E4F26b9F7cC0215e02ABcE4A on BNB Chain, Ethereum, Oasis Emerald, Polygon, Avalanche, Fantom, Moonriver, Heco, Cronos, or Fuse.
+* Send donations directly to 0x6556b412c9E8b473E4F26b9F7cC0215e02ABcE4A via BNB Chain, Ethereum, Oasis Emerald, Polygon, Avalanche, Fantom, Moonriver, Heco, Cronos, or Fuse.
 
 Thank you.
 
