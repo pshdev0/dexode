@@ -14,7 +14,7 @@ Dexode was built as a tool to help achieve this.
 Dexode's key driving factors and features include:
 
 * All blockchain related data is obtained from the clients IP and crunched locally, respecting rate limits. The server acts simply to deliver the web app.
-* Your data, like your keys and crypto, is yours. Curate your transactions with Dexode and export your data locally. Keep it safe to avoid resyncing later. Load back in at any time.
+* Your data, like your keys and crypto, is yours and is stored only in your local Dexode app instances memory and on your local hard disk if you decided to export it. Curate your transactions with Dexode and export your data locally. Keep it safe to avoid resyncing later. Load back in at any time.
 * Connect via web3 wallet to obtain wallet and chain details.
 * Automatically obtain all "pricestamps".
 * Automatically compute cumulative balances based on transaction history.
