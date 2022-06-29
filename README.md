@@ -5,9 +5,9 @@ Welcome to Dexode's update repo, where I'll be reporting on project progress and
 
 # Background
 
-As a user of many EVM compatible blockchains and DeFi web apps I understand how disorganised and confusing wallet transactions can seem. Users should be able to track and understand transactions, and make sure balances are up to date and accurate. Knowledge of coin and token prices at the time of each transaction ("pricestamps") is also required, and ultimately we may need to calculate profit, loss, and report capital gains and income taxes.
+As a user of many EVM compatible blockchains and DeFi web apps I understand how disorganised and confusing wallet transactions can seem. Users should be able to track and understand transactions, and make sure balances are up to date and accurate. Knowledge of coin and token prices at the transaction timestamp ("pricestamps") is also required. Ultimatly we may need to calculate profit, loss, and report capital gains and income taxes.
 
-Dexode was built as a tool to help achieve this.
+Dexode drives to build such a tool to achieve this.
 
 # Core Features
 
@@ -15,18 +15,18 @@ Dexode's key features and drivers include:
 
 * All blockchain related data is obtained from the clients IP and crunched locally, respecting rate limits. The server acts simply to deliver the web app.
 * Your data, like your keys and crypto, is yours and is stored only in your local Dexode app instances memory and on your local hard disk if you decided to export it. Curate your transactions with Dexode and export your data locally. Keep it safe to avoid resyncing later. Load back in at any time.
-* Connect via web3 wallet to obtain wallet and chain details.
+* Connect, sync, and curate. Connects via your web3 wallet to obtain wallet and chain details.
 * Automatically obtain all "pricestamps".
 * Automatically compute cumulative balances based on transaction history.
-* Automatically download to archive nodes for exact archive node balances.
-* Allow to examine and curate transactions where necessary, including updating/correcting for spurious balances (archive node balances render this unnecessary)
+* Automatically download archive node balances, when connected to an archive node.
+* Allow to examine and curate transactions where necessary, including updating/correcting for spurious cumulative balances (archive node balances render this unnecessary)
 * Visualise pricestamps over time.
 * Compute profit and loss, and produce capital gains and income tax reports.
-* Apply demographic tax reporting rules, e.g. here in the UK we have "Bed and Breakfast" tax rules and so forth.
+* Apply demographic tax reporting rules, e.g. "Bed and Breakfast" tax rules and so forth.
 * Learn about DeFi and what appears on the blockchain as you curate your transactions.
-* Data analytics. The world is our oyster here.
+* Data analytics, trend analysis.
 
-You can check out a live video demo [here]. If you would like to help me continue working on Dexode you can:
+You can check out a live video demo [here], and if you would like to help me continue working on Dexode you can:
 
 * Contribute to the Dexode gitcoin.co page here.
 * Send donations directly to 0x6556b412c9E8b473E4F26b9F7cC0215e02ABcE4A via BNB Chain, Ethereum, Oasis Emerald, Polygon, Avalanche, Fantom, Moonriver, Heco, Cronos, or Fuse.
