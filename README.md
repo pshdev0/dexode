@@ -1,7 +1,7 @@
 # Dexode
 EVM Compatible Blockchain Transaction Decoder
 
-🚧 Welcome to Dexode's update repo, where I'll be reporting on project progress and uploading the main repo files. 🚧
+Welcome to Dexode's update repo, where I'll be reporting on project progress and uploading the main repo files.
 
 # Background
 
@@ -33,7 +33,7 @@ You can check out a live video demo [here]. If you would like to help me continu
 
 Thank you.
 
-# Current Work In Progress
+# 🚧 Current Work In Progress 🚧
 
 * Debug cumulative balances - make sure user can edit "corrections" cell & debug.
 * Start analysing how to compute profit and loss from the list of transactions.
