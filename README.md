@@ -46,8 +46,10 @@ Thank you.
 
 # Completed Work
 
+* Tool tips implemented for user ability to learn what the UI elements do & blockchain data delete function implemented.
 * UI revamp & File System Access API used for import/export of blockchain curation data and blockchain details.
-* Apache eCharts for pricestamp calculation.
+* Apache eCharts for pricestamp calculation integrated.
+* Archive node exact balance import implemented.
 * Pricestamp API access and calculation function implemented.
 * Settings page created, with blockchain sync details and synchronisation options page.
 * Web3 connectivity and connection with SDK.
