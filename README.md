@@ -51,5 +51,5 @@ Thank you.
 * Pricestamp API access and calculation function implemented.
 * Settings page created, with blockchain sync details and synchronisation options page.
 * Web3 connectivity and connection with SDK.
-* Read web app created and preliminary UI in place using Material UI Pro version.
+* React web app created and preliminary UI in place using Material UI Pro version.
 * Core Dexode SDK created, more functionality is added as and when needed.
