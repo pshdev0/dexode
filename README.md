@@ -44,3 +44,12 @@ Thank you.
 
 [here]:https://www.pshdev.net:3000/56a580ad3befc663da709977ba17447ffa133c85/demo?pw=96142ddf59dd612692f995ce8f483480825148a4
 
+# Completed Work
+
+* UI revamp & File System Access API used for import/export of blockchain curation data and blockchain details.
+* Apache eCharts for pricestamp calculation.
+* Pricestamp API access and calculation function implemented.
+* Settings page created, with blockchain sync details and synchronisation options page.
+* Web3 connectivity and connection with SDK.
+* Read web app created and preliminary UI in place using Material UI Pro version.
+* Core Dexode SDK created, more functionality is added as and when needed.
