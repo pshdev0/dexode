@@ -50,3 +50,5 @@ A video demonstrating current progress of the web app client for the Dexode SDK 
 * Web3 connectivity and connection with SDK.
 * React web app created and preliminary UI in place using Material UI Pro version.
 * Core Dexode SDK created, more functionality is added as and when needed.
+
+You can find Dexode on Gitcoin.co: https://gitcoin.co/grants/6874/dexode
