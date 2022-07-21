@@ -28,27 +28,6 @@ Dexode's key features and drivers include:
 
 A video demonstrating current progress of the web app client for the Dexode SDK can be viewed [here].
 
-# Current Work In Progress
-
-* 🚧 Debug cumulative balances - make sure user can edit "corrections" cell & debug.
-* Start analysing how to compute profit and loss from the list of transactions.
-* Automate & debug profit & loss; design UI to display this (probably via a different "view" of the existing table)
-* Implement demographic tax calculation rules, e.g. Bed & Breakfast rules, etc, separate for capital gains, income tax.
-* Test and debug on many other blockchains.
-* Review & improve data visualisation; this may be particularly useful for profit & loss / tax reporting.
-
-[here]:https://www.pshdev.net:3000/56a580ad3befc663da709977ba17447ffa133c85/demo?pw=96142ddf59dd612692f995ce8f483480825148a4
-
-# Completed Work
-
-* Tool tips implemented for user ability to learn what the UI elements do & blockchain data delete function implemented.
-* UI revamp & File System Access API used for import/export of blockchain curation data and blockchain details.
-* Apache eCharts for pricestamp calculation integrated.
-* Archive node exact balance import implemented.
-* Pricestamp API access and calculation function implemented.
-* Settings page created, with blockchain sync details and synchronisation options page.
-* Web3 connectivity and connection with SDK.
-* React web app created and preliminary UI in place using Material UI Pro version.
-* Core Dexode SDK created, more functionality is added as and when needed.
+See the GitHub repo Issues for work completed and in progress.
 
 You can find Dexode on Gitcoin.co: https://gitcoin.co/grants/6874/dexode
